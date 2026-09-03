@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/edt_backgrond"
+        android:transcriptMode="alwaysScroll" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_gravity="bottom"
+        android:layout_margin="5dp">
+
+        <EditText
+            android:id="@+id/txtChatLine"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_weight="0.90"
+            android:autofillHints=""
+            android:background="@drawable/edt_backgrond"
+            android:focusableInTouchMode="true"
+            android:hint="@string/txt_hint"
+            android:inputType="text"
+            android:padding="10dp"
+            android:textColorHint="#00838F"
+            android:visibility="visible"
+            tools:ignore="VisualLintTextFieldSize,TextContrastCheck" />
+
+        <ImageButton
+            android:id="@+id/button1"
+            android:layout_width="40dp"
+            android:layout_height="50dp"
+            android:layout_weight="0.10"
+            android:contentDescription="@string/btn_send"
+            android:scaleType="fitCenter"
+            android:src="@drawable/send"
+            tools:ignore="RedundantDescriptionCheck,ImageContrastCheck" />
+    </LinearLayout>
+
+</LinearLayout>

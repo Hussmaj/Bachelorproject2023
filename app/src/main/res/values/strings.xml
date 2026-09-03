@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HDT chat</string>
+
+    <string name="looking">looking for peers</string>
+    <string name="btn_send">Send</string>
+    <string name="txt_hint">Type Message</string>
+    <string name="connecting">waiting to complete the connections</string>
+    <string name="chat">chat</string>
+    <string name="lyd">lyd</string>
+    <string name="logo">logo</string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentLeft="true"
+    android:layout_marginRight="5dp"
+    android:layout_marginTop="5dp">
+
+    <TextView
+        android:id="@+id/text_s"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_background"
+        android:text="this is sent message"
+        android:textColor="@color/white"
+        android:textSize="18dp"
+        android:padding="8dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="500dp"
+        android:layout_height="500dp"
+        android:layout_weight="3"
+        android:layout_gravity="center"
+        android:scaleType="fitCenter"/>
+
+</RelativeLayout>
