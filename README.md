@@ -23,10 +23,10 @@ I tillegg hadde prosjektet som mål å gi prosjektgruppen praktisk erfaring med 
 ## Funksjonalitet
 
 **Illustrasjon av konseptet:**
+<img width="1331" height="628" alt="Illustrasjjon-konsept" src="https://github.com/user-attachments/assets/0ad69175-c5fd-4121-a291-e043b7c5d14d" />
 
 **Ferdig utviklet konsept**
-<img width="1920" height="1440" alt="97cd710c-84fc-4702-8c03-a4ec00d9de5c" src="https://github.com/user-attachments/assets/a20e367a-6906-433f-9c37-abfea57e5217" />
-
+<img width="1920" height="1440" alt="fullført-konsept" src="https://github.com/user-attachments/assets/05d0fd20-6e14-4853-befa-8451853a2fa8" />
 
 ## Mitt ansvar for prosjeket:
 
@@ -40,11 +40,15 @@ I tillegg hadde prosjektet som mål å gi prosjektgruppen praktisk erfaring med 
 ## Teknologier og utstyr:
 
 ### Teknolgoier:
-**Programmering språk:** Kotlin
+**Programmeringsspråk:** Kotlin
 
 **IDE Valg:** Android Studio
 
-**Versjon kontroll:** GitHub
+**Kommunikasjon:** Wi-Fi Direct (P2P), VHF
+
+**Database:** Room / SQLite
+
+**Versjonskontroll:** Git / GitHub
 
 ### Utsyr:
 
@@ -54,10 +58,10 @@ I tillegg hadde prosjektet som mål å gi prosjektgruppen praktisk erfaring med 
 
 **Lydkort AUX til USB-C:** Soundblaster G3
 
-
 ## MVVM Arkitekturen
 
-<img width="611" height="617" alt="image" src="https://github.com/user-attachments/assets/e835cb52-9250-41fb-aa7a-4cf9b24d8bae" />
+<img width="858" height="847" alt="Skjermbilde 2026-09-03 152935" src="https://github.com/user-attachments/assets/75af1226-4316-4883-ae98-ebf756554318" />
+
 
 ## Kilder: 
 
