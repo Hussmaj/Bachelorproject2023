@@ -1,8 +1,7 @@
 # Bacheloroppgave – våren 2023
 ## Utvikling av et nytt sambandkonsept
 
-
-Under bachelorprosjektet utviklet jeg sammen med prosjektgruppen en Android-applikasjonsprototype som muliggjorde kommunikasjon via P2P Wi-Fi Direct og VHF.
+Under bachelorprosjektet utviklet jeg, sammen med prosjektgruppen, en prototype av en Android-applikasjon som muliggjorde kommunikasjon via Wi-Fi Direct (P2P) og VHF.
 
 ## Hensikt og mål med prosjektet:
 
