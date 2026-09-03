@@ -23,7 +23,6 @@ I tillegg hadde prosjektet som mål å gi prosjektgruppen praktisk erfaring med 
 ## Funksjonalitet
 
 **Illustrasjon av konseptet:**
-<img width="1331" height="628" alt="Illustrasjjon av konseptet" src="https://github.com/user-attachments/assets/6458bc51-37d3-40db-9e0b-202cbbf3aa32" />
 
 **Ferdig utviklet konsept**
 <img width="1920" height="1440" alt="97cd710c-84fc-4702-8c03-a4ec00d9de5c" src="https://github.com/user-attachments/assets/a20e367a-6906-433f-9c37-abfea57e5217" />
