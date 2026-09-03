@@ -7,9 +7,9 @@ Under bachelorprosjektet utviklet jeg, sammen med prosjektgruppen, en prototype 
 
 *Hva gjør vi i en kritisk situasjon dersom mobilnett eller annen EKOM-infrastruktur blir utilgjengelig?*
 
-Et eksempel på en slik situasjon er Dagmar-stormen som rammet Norge, Sverige og Finland i 2011. Ifølge Direktoratet for samfunnssikkerhet og beredskap (DSB) førte stormen til bortfall av internett og mobilnett for mange tusen mennesker, samt redusert dekning i nødnettet i Akershus og Buskerud som følge av strømbrudd (DSB, 2019).
+Et eksempel på en slik situasjon er Dagmar-stormen som rammet Norge, Sverige og Finland i 2011. Ifølge Direktoratet for samfunnssikkerhet og beredskap (DSB) førte stormen til bortfall av internett og mobilnett for mange tusen mennesker, samt redusert dekning i nødnettet i Akershus og Buskerud som følge av strømbrudd (Direktoratet for samfunnssikkerhet og beredskap, 2019, s. 34).
 
-Et annet mulig scenario er at EKOM-infrastrukturen blir utsatt for et digitalt angrep. Et slikt angrep kan føre til omfattende bortfall av kommersielle kommunikasjonstjenester, inkludert mobilnett, internett, radio og TV. Telenors transportnett for EKOM er det eneste landsdekkende transportnettet i Norge (DSB, 2019).
+Et annet mulig scenario er at EKOM-infrastrukturen blir utsatt for et digitalt angrep. Et slikt angrep kan føre til omfattende bortfall av kommersielle kommunikasjonstjenester, inkludert mobilnett, internett, radio og TV. Telenors transportnett for EKOM er det eneste landsdekkende transportnettet i Norge (Direktoratet for samfunnssikkerhet og beredskap, 2019, s. 204).
 
 Disse scenarioene viser behovet for alternative kommunikasjonsløsninger som kan fungere når den ordinære kommunikasjonsinfrastrukturen er utilgjengelig. Prosjektet tar derfor utgangspunkt i behovet for en sikker og robust kommunikasjonsløsning som kan benytte alternative kommunikasjonskanaler.
 
@@ -64,6 +64,8 @@ I tillegg hadde prosjektet som mål å gi prosjektgruppen praktisk erfaring med 
 
 
 ## Kilder: 
+Direktoratet for samfunnssikkerhet og beredskap. (2019). 
+*Analyser av krisescenarioer 2019.*
+https://www.dsbinfo.no/DSBno/2019/tema/aks-2019/
 
-https://www.dsbinfo.no/DSBno/2019/tema/aks-2019/?fbclid=IwAR1LWmZIJLN39fVK9jf3E7hJx5ylkPvySH1rbTW19dcwvuBabLAyKy1sS&page=34
-https://www.dsbinfo.no/DSBno/2019/tema/aks-2019/?fbclid=IwAR1LWmZIJLN39fVK9jf3E7hJx5ylkPvySH1rbTW19dcwvuBabLAyKy1sS&page=204
+
